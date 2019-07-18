@@ -9,17 +9,17 @@ Requirements
 Building The Provider
 ---------------------
 
-Clone repository to: `$GOPATH/src/github.com/oogway/terraform-provider-papertrail`
+Clone repository to: `$GOPATH/src/github.com/bsquare/terraform-provider-papertrail`
 
 ```sh
-$ mkdir -p $GOPATH/src/github.com/oogway; cd $GOPATH/src/github.com/oogway
-$ git clone git@github.com:oogway/terraform-provider-papertrail
+$ mkdir -p $GOPATH/src/github.com/bsquare; cd $GOPATH/src/github.com/bsquare
+$ git clone git@github.com:bsquare/terraform-provider-papertrail
 ```
 
 Enter the provider directory and build the provider
 
 ```sh
-$ cd $GOPATH/src/github.com/oogway/terraform-provider-papertrail
+$ cd $GOPATH/src/github.com/bsquare/terraform-provider-papertrail
 $ go get
 $ go build
 ```
@@ -29,6 +29,6 @@ For Usage, have a look at docs in `website` directory.
 Running Tests
 -------------
 ```sh
-$ cd $GOPATH/src/github.com/oogway/terraform-provider-papertrail/papertrail
+$ cd $GOPATH/src/github.com/bsquare/terraform-provider-papertrail/papertrail
 $ PAPERTRAIL_TOKEN=<token> DESTINATION_PORT=<log_destination_port> go tests -v
 ```
