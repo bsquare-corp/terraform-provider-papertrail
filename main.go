@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/oogway/terraform-provider-papertrail/papertrail"
+	"github.com/bsquare-corp/terraform-provider-papertrail/papertrail"
 )
 
 func main() {

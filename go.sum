@@ -311,8 +311,6 @@ github.com/onsi/ginkgo v1.7.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+W
 github.com/onsi/gomega v1.4.3/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
 github.com/oogway/goptrail v0.0.0-20171209085443-a1597dd3a24c h1:VsTqri3MxUD3ACc0hpy6r9TnxMNapWnaO57jMjti3Wc=
 github.com/oogway/goptrail v0.0.0-20171209085443-a1597dd3a24c/go.mod h1:9x+7m498gAp79Oh3rVp8G64ef6WFRc/147AcjfvKjoM=
-github.com/oogway/terraform-provider-papertrail v0.0.0-20190724083128-4cd329b0aff0 h1:WyFfV51tLsFkZJTUUDpCKqxNX6wU/Z7kicKcpyzheRQ=
-github.com/oogway/terraform-provider-papertrail v0.0.0-20190724083128-4cd329b0aff0/go.mod h1:nUy8qYBi4Oi+DXoVaP/pAGhVK9klUc5MD0+63DY2sEc=
 github.com/openzipkin/zipkin-go v0.1.1/go.mod h1:NtoC/o8u3JlF1lSlyPNswIbeQH9bJTmOf0Erfk+hxe8=
 github.com/packer-community/winrmcp v0.0.0-20180102160824-81144009af58 h1:m3CEgv3ah1Rhy82L+c0QG/U3VyY1UsvsIdkh0/rU97Y=
 github.com/packer-community/winrmcp v0.0.0-20180102160824-81144009af58/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
